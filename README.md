@@ -19,6 +19,9 @@ Now download the GitHub Repository:
 Now head into the downloaded folder with:
 
     cd url_resolve
+Now make the script executeable:
+
+    chmod +x url_checker.sh
 And execute the script together with providing a URL you want to have resolved/analyzed, for example:
 
     ./url_checker.sh https://www.tkqlhce.com/click-101116085-15692486
@@ -37,6 +40,10 @@ Now clone this repository using:
 Go into the downloaded repo using:
 
     cd url_resolve
+Now make the script executeable:
+
+    chmod +x url_checker.sh
+
 Now execute the script together with providing a URL you want to have resolved/analyzed, for example:
 
     ./url_checker.sh https://www.tkqlhce.com/click-101116085-15692486
